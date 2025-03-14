@@ -1,33 +1,17 @@
-# SVG Animation Assignment
+### Uppgift: SVG-animation, kurs "Grafiska verktyg för gränssnittsdesign"
 
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/rLdDeiQm)
+- Texten **"Flummox!"** är outline:ad i Figma för att konvertera varje enskilt tecken till vektorgrafik och sedan exporterad i SVG-format, så att textens utseende bevaras även om typsnittet saknas hos en användares dator.
 
-## Uppgift: SVG-animation, kurs Grafiska verktyg för gränssnittsdesign
+- **SVG används för att skapa en textbaserad grafik**, där varje bokstav representeras av en `<path>`.
+- Den här uppgiften använder **GSAP (GreenSock Animation Platform)** för att animera SVG-element, inklusive:
+  - **Rotation och färgändring** av en bokstav.
+  - **Upp-och-ner-hoppande rörelse** med en studseffekt.
+  - **Elastisk färgskiftning** av en annan bokstav.
+  - **Skalning och förflyttning** av utropstecknet.
+- **Animeringarna upprepas oändligt** (`repeat: -1`) och använder `yoyo: true` för att växla mellan start- och slutläge.
+- **SVG-filen är inställd med `viewBox` och `preserveAspectRatio`**, vilket gör den skalbar och responsiv.
 
-### 1. Skapa en SVG-fil
+## Live Demo
 
-Använd ett valfritt program som hanterar SVG, till exempel:
-
-- **Adobe Illustrator**
-- **Inkscape**
-- **Figma**
-- **Annat SVG-kompatibelt program**
-
-### 2. Lägg till text och objekt
-
-- Skapa en **valfri text** eller **rita ett objekt**.
-- Använd en **icke-standard-font** (dvs. **inte** Helvetica, Arial, Times New Roman eller andra systemfonter).
-- **"Outline:a" texten** för att konvertera den till vektorgrafik, så att textens utseende bevaras även om typsnittet saknas på andra datorer.
-
-### 3. Animera SVG-filen
-
-- Skapa en **animering** av SVG-filen.
-- **Exempel på animationer:**
-  - **Rotation av ett objekt**
-  - **Färgskiftning på en bokstav**
-  - **Valfri kreativ effekt**
-- **Ladda upp animationen så att den går att se online.**
-
-### 4. Responsivitet (valfritt)
-
-Animationen **behöver inte vara responsiv**, men om du animerar i **procent** kan du enkelt göra den responsiv eftersom **SVG är vektorgrafik och skalbar**.
+Lägg till en länk till din live-demo här:
+[![Live Demo](https://medieinstitutet.github.io/fed24d-grafiska-verktyg-individuell-fridanordenlow/)]
