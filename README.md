@@ -2,7 +2,10 @@
 
 ### Uppgift 1: Generera en AI-bild
 
-- Lägg in din AI-genererade bild i README:n på repot, och förklara dess tanke/användningsområde kortfattat.
+- Detta är en bild på en porslinskopp i minimalistisk japansk stil i klassiska färger. Bilden är tänkt att fungera som en fiktiv produktbild på en webbshop eller auktionssida.
+
+![AI-generated_porcelain-cup](https://github.com/user-attachments/assets/7421a1ec-d7df-47ac-8dc1-7fe395f08534)
+
 
 ### Uppgift 2: SVG-animation
 
@@ -20,4 +23,4 @@
 ## Live Demo
 
 Lägg till en länk till din live-demo här:
-https://medieinstitutet.github.io/fed24d-grafiska-verktyg-individuell-fridanordenlow
+- https://medieinstitutet.github.io/fed24d-grafiska-verktyg-individuell-fridanordenlow
