@@ -1,13 +1,11 @@
-#### Kurs "Grafiska verktyg för gränssnittsdesign"
-
-### Uppgift 1: Generera en AI-bild
+## Uppgift 1: Generera en AI-bild
 
 - Detta är en bild på en porslinskopp i minimalistisk japansk stil i klassiska färger. Bilden är tänkt att fungera som en fiktiv produktbild på en webbshop eller auktionssida.
 
 ![AI-generated_porcelain-cup](https://github.com/user-attachments/assets/7421a1ec-d7df-47ac-8dc1-7fe395f08534)
 
 
-### Uppgift 2: SVG-animation
+## Uppgift 2: SVG-animation
 
 - Texten **"Flummox!"** är outline:ad i Figma för att konvertera varje enskilt tecken till vektorgrafik och sedan exporterad i SVG-format, så att textens utseende bevaras även om typsnittet saknas hos en användares dator.
 
