@@ -1,4 +1,10 @@
-### Uppgift: SVG-animation, kurs "Grafiska verktyg för gränssnittsdesign"
+#### Kurs "Grafiska verktyg för gränssnittsdesign"
+
+### Uppgift 1: Generera en AI-bild
+
+- Lägg in din AI-genererade bild i README:n på repot, och förklara dess tanke/användningsområde kortfattat.
+
+### Uppgift 2: SVG-animation
 
 - Texten **"Flummox!"** är outline:ad i Figma för att konvertera varje enskilt tecken till vektorgrafik och sedan exporterad i SVG-format, så att textens utseende bevaras även om typsnittet saknas hos en användares dator.
 
@@ -14,4 +20,4 @@
 ## Live Demo
 
 Lägg till en länk till din live-demo här:
-[![Live Demo](https://medieinstitutet.github.io/fed24d-grafiska-verktyg-individuell-fridanordenlow/)]
+https://medieinstitutet.github.io/fed24d-grafiska-verktyg-individuell-fridanordenlow
